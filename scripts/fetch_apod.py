@@ -89,7 +89,6 @@ def update_readme(apod_data):
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
----
 {APOD_SECTION_END}'''
     
     pattern = re.escape(APOD_SECTION_START) + r'.*?' + re.escape(APOD_SECTION_END)
@@ -97,9 +96,9 @@ def update_readme(apod_data):
     if re.search(pattern, content, re.DOTALL):
         content = re.sub(pattern, apod_section, content, flags=re.DOTALL)
     else:
-        insertion_point = content.find('### ⭐ My Constellation')
+        insertion_point = content.find('### 🔭 Visitor Counter')
         if insertion_point != -1:
-            content = content[:insertion_point] + apod_section + '\n\n' + content[insertion_point:]
+            content = content[:insertion_point] + apod_section + '\n\n---\n\n' + content[insertion_point:]
         else:
             content += '\n\n' + apod_section
     
