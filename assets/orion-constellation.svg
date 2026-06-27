@@ -1,0 +1,46 @@
+<svg width="280" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="200" fill="#0d1117" rx="10"/>
+  <g stroke="#58a6ff" stroke-width="1" opacity="0.6">
+    <line x1="140" y1="30" x2="90" y2="60"/>
+    <line x1="140" y1="30" x2="190" y2="60"/>
+    <line x1="90" y1="60" x2="70" y2="120"/>
+    <line x1="190" y1="60" x2="210" y2="120"/>
+    <line x1="70" y1="120" x2="100" y2="150"/>
+    <line x1="210" y1="120" x2="180" y2="150"/>
+    <line x1="100" y1="150" x2="140" y2="170"/>
+    <line x1="180" y1="150" x2="140" y2="170"/>
+    <line x1="70" y1="120" x2="210" y2="120"/>
+  </g>
+  <g fill="#ffffff">
+    <circle cx="140" cy="30" r="4" fill="#ff6b6b">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="60" r="3">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="190" cy="60" r="3">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="105" cy="90" r="2" fill="#58a6ff"/>
+    <circle cx="125" cy="92" r="2" fill="#58a6ff"/>
+    <circle cx="140" cy="95" r="2" fill="#58a6ff"/>
+    <circle cx="155" cy="92" r="2" fill="#58a6ff"/>
+    <circle cx="170" cy="90" r="2" fill="#58a6ff"/>
+    <circle cx="70" cy="120" r="4" fill="#f9e25c">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="210" cy="120" r="4" fill="#f9e25c">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="100" cy="150" r="3" fill="#69db7c">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="150" r="3.5" fill="#9775fa">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="170" r="3">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="140" y="195" font-family="monospace" font-size="10" fill="#8b949e" text-anchor="middle">Orion (猎户座)</text>
+</svg>
