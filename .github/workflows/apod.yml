@@ -10,6 +10,9 @@ on:
     paths:
       - 'scripts/fetch_apod.py'
 
+permissions:
+  contents: write
+
 jobs:
   update-apod:
     runs-on: ubuntu-latest
