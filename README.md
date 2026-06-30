@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg" alt="M82: Galaxy with a Supergalactic Wind" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>M82: Galaxy with a Supergalactic Wind (2026-06-29)</h4>
-  <p>Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn&#x27;t fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is...</p>
+  <h4>Astronomy Picture of the Day (2026-06-30)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
