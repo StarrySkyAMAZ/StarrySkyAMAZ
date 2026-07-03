@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg" alt="Sibling Supernova Remnants" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg" alt="Three Galaxies in Pavo" width="700">
   </a>
   <br>
-  <h4>Sibling Supernova Remnants (2026-07-02)</h4>
-  <p>What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Je...</p>
+  <h4>Three Galaxies in Pavo (2026-07-03)</h4>
+  <p>Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, w...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
