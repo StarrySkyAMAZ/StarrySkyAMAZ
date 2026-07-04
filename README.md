@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg" alt="Three Galaxies in Pavo" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/PIA00621.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg" alt="Pathfinder on Mars" width="700">
   </a>
   <br>
-  <h4>Three Galaxies in Pavo (2026-07-03)</h4>
-  <p>Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, w...</p>
+  <h4>Pathfinder on Mars (2026-07-04)</h4>
+  <p>On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing se...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
