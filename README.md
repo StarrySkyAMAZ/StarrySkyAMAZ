@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg" alt="Saturn&#x27;s Iapetus: Painted Moon" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg" alt="Dueling Bands over the Atacama Desert" width="700">
   </a>
   <br>
-  <h4>Saturn&#x27;s Iapetus: Painted Moon (2026-07-05)</h4>
-  <p>What has happened to Saturn&#x27;s moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  P...</p>
+  <h4>Dueling Bands over the Atacama Desert (2026-07-06)</h4>
+  <p>What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen b...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
