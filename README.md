@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg" alt="NGC 6188: Dragons of Ara" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg" alt="The Red Glow of the Cosmic Bat Nebula" width="700">
   </a>
   <br>
-  <h4>NGC 6188: Dragons of Ara (2026-07-07)</h4>
-  <p>Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years...</p>
+  <h4>The Red Glow of the Cosmic Bat Nebula (2026-07-09)</h4>
+  <p>This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibra...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
