@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg" alt="The Red Glow of the Cosmic Bat Nebula" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg" alt="Western Moon, Eastern Sea" width="700">
   </a>
   <br>
-  <h4>The Red Glow of the Cosmic Bat Nebula (2026-07-09)</h4>
-  <p>This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibra...</p>
+  <h4>Western Moon, Eastern Sea (2026-07-10)</h4>
+  <p>The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it&#x27;s very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside,...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
