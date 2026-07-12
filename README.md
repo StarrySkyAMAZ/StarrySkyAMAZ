@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg" alt="Western Moon, Eastern Sea" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg" alt="Galaxy NGC 474: Shells and Star Streams" width="700">
   </a>
   <br>
-  <h4>Western Moon, Eastern Sea (2026-07-10)</h4>
-  <p>The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it&#x27;s very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside,...</p>
+  <h4>Galaxy NGC 474: Shells and Star Streams (2026-07-12)</h4>
+  <p>What&#x27;s happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
