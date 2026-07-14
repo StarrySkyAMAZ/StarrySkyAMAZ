@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg" alt="Galaxy NGC 474: Shells and Star Streams" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4" alt="Auroras from Space" width="700">
   </a>
   <br>
-  <h4>Galaxy NGC 474: Shells and Star Streams (2026-07-12)</h4>
-  <p>What&#x27;s happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from...</p>
+  <h4>Auroras from Space (2026-07-13)</h4>
+  <p>What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are acti...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
