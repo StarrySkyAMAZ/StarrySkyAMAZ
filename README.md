@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4" alt="Auroras from Space" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg" alt="Double Lobed Asteroid Torifune" width="700">
   </a>
   <br>
-  <h4>Auroras from Space (2026-07-13)</h4>
-  <p>What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are acti...</p>
+  <h4>Double Lobed Asteroid Torifune (2026-07-14)</h4>
+  <p>Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
