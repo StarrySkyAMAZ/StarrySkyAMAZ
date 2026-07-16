@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg" alt="Double Lobed Asteroid Torifune" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/red_sprite.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg" alt="Red Sprites in the Tatacoa Desert" width="700">
   </a>
   <br>
-  <h4>Double Lobed Asteroid Torifune (2026-07-14)</h4>
-  <p>Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...</p>
+  <h4>Red Sprites in the Tatacoa Desert (2026-07-15)</h4>
+  <p>Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charg...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
