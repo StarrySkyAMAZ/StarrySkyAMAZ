@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg" alt="The Dust Trail of Comet Tempel 2" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-07-17)</h4>
-  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
+  <h4>The Dust Trail of Comet Tempel 2 (2026-07-17)</h4>
+  <p>Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin d...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
