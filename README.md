@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg" alt="The Dust Trail of Comet Tempel 2" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg" alt="Flying Saucer Crash Lands in Utah Desert" width="700">
   </a>
   <br>
-  <h4>The Dust Trail of Comet Tempel 2 (2026-07-17)</h4>
-  <p>Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin d...</p>
+  <h4>Flying Saucer Crash Lands in Utah Desert (2026-07-19)</h4>
+  <p>A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
