@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg" alt="NGC 3576: The Statue of Liberty Nebula" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg" alt="Turtle Rock on Mars" width="700">
   </a>
   <br>
-  <h4>NGC 3576: The Statue of Liberty Nebula (2026-07-20)</h4>
-  <p>What&#x27;s happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned...</p>
+  <h4>Turtle Rock on Mars (2026-07-21)</h4>
+  <p>Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
