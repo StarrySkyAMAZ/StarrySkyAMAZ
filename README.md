@@ -35,7 +35,7 @@
     <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-07-23)</h4>
+  <h4>Astronomy Picture of the Day (2026-07-24)</h4>
   <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
