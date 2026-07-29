@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg" alt="NGC 7635: The Bubble Nebula" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg" alt="Barnards Loop over Twin Volcanoes" width="700">
   </a>
   <br>
-  <h4>NGC 7635: The Bubble Nebula (2026-07-27)</h4>
-  <p>What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and...</p>
+  <h4>Barnards Loop over Twin Volcanoes (2026-07-28)</h4>
+  <p>What&#x27;s connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
