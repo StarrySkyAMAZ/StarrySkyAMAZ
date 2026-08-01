@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg" alt="NGC 4372 and the Dark Doodad" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg" alt="Buck Moon and Belt of Venus" width="700">
   </a>
   <br>
-  <h4>NGC 4372 and the Dark Doodad (2026-07-31)</h4>
-  <p>The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it&#x27;s seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this...</p>
+  <h4>Buck Moon and Belt of Venus (2026-08-01)</h4>
+  <p>The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth&#x27;s shadow also rises in the...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
