@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg" alt="Buck Moon and Belt of Venus" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg" alt="A Fire Rainbow over West Virginia" width="700">
   </a>
   <br>
-  <h4>Buck Moon and Belt of Venus (2026-08-01)</h4>
-  <p>The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth&#x27;s shadow also rises in the...</p>
+  <h4>A Fire Rainbow over West Virginia (2026-08-02)</h4>
+  <p>What&#x27;s happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
