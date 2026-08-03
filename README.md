@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg" alt="A Fire Rainbow over West Virginia" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg" alt="Vaporizing Meteor Photobombs the Lacerta Nebula" width="700">
   </a>
   <br>
-  <h4>A Fire Rainbow over West Virginia (2026-08-02)</h4>
-  <p>What&#x27;s happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58...</p>
+  <h4>Vaporizing Meteor Photobombs the Lacerta Nebula (2026-08-03)</h4>
+  <p>What&#x27;s happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
