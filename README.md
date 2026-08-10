@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg" alt="A Messier Moment for Tempel 2" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>A Messier Moment for Tempel 2 (2026-08-08)</h4>
-  <p>Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier&#x27;s cat...</p>
+  <h4>Astronomy Picture of the Day (2026-08-10)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
