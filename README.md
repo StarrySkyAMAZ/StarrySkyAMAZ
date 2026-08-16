@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg" alt="Total Solar Eclipse from Greenland" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" alt="Bright Perseids from Sweden" width="700">
   </a>
   <br>
-  <h4>Total Solar Eclipse from Greenland (2026-08-14)</h4>
-  <p>On August 12, the Moon&#x27;s shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves wi...</p>
+  <h4>Bright Perseids from Sweden (2026-08-15)</h4>
+  <p>Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth&#x27;s skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
