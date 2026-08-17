@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" alt="Bright Perseids from Sweden" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg" alt="Milky Way over Yellowstone" width="700">
   </a>
   <br>
-  <h4>Bright Perseids from Sweden (2026-08-15)</h4>
-  <p>Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth&#x27;s skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...</p>
+  <h4>Milky Way over Yellowstone (2026-08-16)</h4>
+  <p>The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
