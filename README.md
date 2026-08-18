@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg" alt="Milky Way over Yellowstone" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_1751.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg" alt="A Golden Corona Eclipse" width="700">
   </a>
   <br>
-  <h4>Milky Way over Yellowstone (2026-08-16)</h4>
-  <p>The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam...</p>
+  <h4>A Golden Corona Eclipse (2026-08-17)</h4>
+  <p>This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week&#x27;s total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that app...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
