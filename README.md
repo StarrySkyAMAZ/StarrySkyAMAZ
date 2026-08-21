@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4" alt="The Case of the Mysterious Maybe Meteor" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/IMG_5201.jpeg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg" alt="The Elephant&#x27;s Trunk in Cepheus" width="700">
   </a>
   <br>
-  <h4>The Case of the Mysterious Maybe Meteor (2026-08-19)</h4>
-  <p>Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34&#x27;30.3&quot;N 1°12&#x27;28.8&quot;W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor...</p>
+  <h4>The Elephant&#x27;s Trunk in Cepheus (2026-08-20)</h4>
+  <p>Like an illustration in a galactic Just So Story, the Elephant&#x27;s Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant&#x27;s trunk is over 20 light-years long. The detailed tele...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
