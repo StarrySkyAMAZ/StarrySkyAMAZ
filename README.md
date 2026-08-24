@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg" alt="Mostly Perseids" width="700">
+  <a href="https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j" target="_blank">
+    <img src="https://img.youtube.com/vi/UgxWkOXcdZU/0.jpg" alt="Cassini Approaches Saturn" width="700">
   </a>
   <br>
-  <h4>Mostly Perseids (2026-08-22)</h4>
-  <p>Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity o...</p>
+  <h4>Cassini Approaches Saturn (2026-08-23)</h4>
+  <p>What would it look like to approach the grand planet Saturn? One doesn&#x27;t have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini&#x27;s early images have been digitally tweaked,...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
