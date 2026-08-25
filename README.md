@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j" target="_blank">
-    <img src="https://img.youtube.com/vi/UgxWkOXcdZU/0.jpg" alt="Cassini Approaches Saturn" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg" alt="Comet 220P in Outburst" width="700">
   </a>
   <br>
-  <h4>Cassini Approaches Saturn (2026-08-23)</h4>
-  <p>What would it look like to approach the grand planet Saturn? One doesn&#x27;t have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini&#x27;s early images have been digitally tweaked,...</p>
+  <h4>Comet 220P in Outburst (2026-08-24)</h4>
+  <p>Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
