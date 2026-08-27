@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg" alt="Earth&#x27;s Shadow Visualized with Lunar Eclipses" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg" alt="Colorful Aurora over Icelandic Waterfall" width="700">
   </a>
   <br>
-  <h4>Earth&#x27;s Shadow Visualized with Lunar Eclipses (2026-08-25)</h4>
-  <p>What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth&#x27;s dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital t...</p>
+  <h4>Colorful Aurora over Icelandic Waterfall (2026-08-27)</h4>
+  <p>What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people&#x27;s bucket lists.   But it is not easy.   It...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
