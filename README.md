@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg" alt="Colorful Aurora over Icelandic Waterfall" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>Colorful Aurora over Icelandic Waterfall (2026-08-27)</h4>
-  <p>What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people&#x27;s bucket lists.   But it is not easy.   It...</p>
+  <h4>Astronomy Picture of the Day (2026-08-28)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
