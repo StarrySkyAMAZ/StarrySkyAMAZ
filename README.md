@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg" alt="Eclipse Pair" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-08-28)</h4>
-  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
+  <h4>Eclipse Pair (2026-08-29)</h4>
+  <p>clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
