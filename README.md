@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg" alt="Eclipse Pair" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg" alt="M74: A Grand Design Spiral" width="700">
   </a>
   <br>
-  <h4>Eclipse Pair (2026-08-29)</h4>
-  <p>clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...</p>
+  <h4>M74: A Grand Design Spiral (2026-08-30)</h4>
+  <p>If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74&#x27;s graceful sp...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
