@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg" alt="M74: A Grand Design Spiral" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4" alt="Launch of the Roman Space Telescope" width="700">
   </a>
   <br>
-  <h4>M74: A Grand Design Spiral (2026-08-30)</h4>
-  <p>If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74&#x27;s graceful sp...</p>
+  <h4>Launch of the Roman Space Telescope (2026-08-31)</h4>
+  <p>A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST&#x27;s main mirror is mor...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
