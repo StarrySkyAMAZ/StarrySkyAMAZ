@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4" alt="Launch of the Roman Space Telescope" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" alt="A Plane Lunar Eclipse" width="700">
   </a>
   <br>
-  <h4>Launch of the Roman Space Telescope (2026-08-31)</h4>
-  <p>A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST&#x27;s main mirror is mor...</p>
+  <h4>A Plane Lunar Eclipse (2026-09-01)</h4>
+  <p>Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don&#x27;t even need any special equipment to see...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
