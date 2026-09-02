@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" alt="A Plane Lunar Eclipse" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg" alt="Solar Eclipses and Culture" width="700">
   </a>
   <br>
-  <h4>A Plane Lunar Eclipse (2026-09-01)</h4>
-  <p>Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don&#x27;t even need any special equipment to see...</p>
+  <h4>Solar Eclipses and Culture (2026-09-02)</h4>
+  <p>Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
