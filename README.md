@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg" alt="Solar Eclipses and Culture" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>Solar Eclipses and Culture (2026-09-02)</h4>
-  <p>Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What...</p>
+  <h4>Astronomy Picture of the Day (2026-09-03)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
