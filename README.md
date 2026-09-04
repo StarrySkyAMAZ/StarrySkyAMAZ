@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg" alt="Nā ʻUhane Māhoe Huki Pū i ke Ola" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-09-03)</h4>
-  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
+  <h4>Nā ʻUhane Māhoe Huki Pū i ke Ola (2026-09-04)</h4>
+  <p>Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
