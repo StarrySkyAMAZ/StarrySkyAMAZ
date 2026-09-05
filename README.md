@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg" alt="Nā ʻUhane Māhoe Huki Pū i ke Ola" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg" alt="Chasing the Moon&#x27;s Shadow" width="700">
   </a>
   <br>
-  <h4>Nā ʻUhane Māhoe Huki Pū i ke Ola (2026-09-04)</h4>
-  <p>Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in...</p>
+  <h4>Chasing the Moon&#x27;s Shadow (2026-09-05)</h4>
+  <p>Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow....</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
