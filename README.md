@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg" alt="Pluto in Enhanced Color" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg" alt="The Pelican Nebula in Gas, Dust, and Stars" width="700">
   </a>
   <br>
-  <h4>Pluto in Enhanced Color (2026-09-06)</h4>
-  <p>Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System&#x27;s most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unex...</p>
+  <h4>The Pelican Nebula in Gas, Dust, and Stars (2026-09-07)</h4>
+  <p>The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
