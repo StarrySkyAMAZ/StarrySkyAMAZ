@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg" alt="Hubble: Decagon Around Saturn&#x27;s South Pole" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/xz_and.mp4" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/xz_and.mp4" alt="Witness XZ Andromedae Wink" width="700">
   </a>
   <br>
-  <h4>Hubble: Decagon Around Saturn&#x27;s South Pole (2026-09-08)</h4>
-  <p>Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Spa...</p>
+  <h4>Witness XZ Andromedae Wink (2026-09-09)</h4>
+  <p>Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and b...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
