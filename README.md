@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" alt="Apollo 11: Catching Some Sun" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-09-11)</h4>
-  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
+  <h4>Apollo 11: Catching Some Sun (2026-09-12)</h4>
+  <p>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission&#x27;s lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Ald...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
