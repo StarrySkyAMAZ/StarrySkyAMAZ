@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" alt="Apollo 11: Catching Some Sun" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4" alt="Comet NEOWISE Rising over the Adriatic Sea" width="700">
   </a>
   <br>
-  <h4>Apollo 11: Catching Some Sun (2026-09-12)</h4>
-  <p>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission&#x27;s lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Ald...</p>
+  <h4>Comet NEOWISE Rising over the Adriatic Sea (2026-09-13)</h4>
+  <p>This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets vis...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
