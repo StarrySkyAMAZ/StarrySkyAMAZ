@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4" alt="Comet NEOWISE Rising over the Adriatic Sea" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" alt="Where Your Elements Came From" width="700">
   </a>
   <br>
-  <h4>Comet NEOWISE Rising over the Adriatic Sea (2026-09-13)</h4>
-  <p>This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets vis...</p>
+  <h4>Where Your Elements Came From (2026-09-14)</h4>
+  <p>The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made durin...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
