@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg" alt="Where Your Elements Came From" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg" alt="A Daytime Eclipse: Moon Occults Venus" width="700">
   </a>
   <br>
-  <h4>Where Your Elements Came From (2026-09-14)</h4>
-  <p>The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made durin...</p>
+  <h4>A Daytime Eclipse: Moon Occults Venus (2026-09-15)</h4>
+  <p>There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
