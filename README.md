@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg" alt="A Daytime Eclipse: Moon Occults Venus" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" alt="Webb&#x27;s View of M64" width="700">
   </a>
   <br>
-  <h4>A Daytime Eclipse: Moon Occults Venus (2026-09-15)</h4>
-  <p>There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...</p>
+  <h4>Webb&#x27;s View of M64 (2026-09-16)</h4>
+  <p>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
