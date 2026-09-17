@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" alt="Webb&#x27;s View of M64" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>Webb&#x27;s View of M64 (2026-09-16)</h4>
-  <p>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees...</p>
+  <h4>Astronomy Picture of the Day (2026-09-17)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
