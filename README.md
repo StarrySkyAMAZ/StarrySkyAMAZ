@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" alt="Messier 33: The Triangulum Galaxy" width="700">
   </a>
   <br>
-  <h4>Astronomy Picture of the Day (2026-09-17)</h4>
-  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
+  <h4>Messier 33: The Triangulum Galaxy (2026-09-18)</h4>
+  <p>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
