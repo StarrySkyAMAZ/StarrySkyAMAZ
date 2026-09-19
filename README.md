@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" alt="Messier 33: The Triangulum Galaxy" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" alt="A Zodiacal Night" width="700">
   </a>
   <br>
-  <h4>Messier 33: The Triangulum Galaxy (2026-09-18)</h4>
-  <p>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M...</p>
+  <h4>A Zodiacal Night (2026-09-19)</h4>
+  <p>Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September&#x27;s star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 met...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
