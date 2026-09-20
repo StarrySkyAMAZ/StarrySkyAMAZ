@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" alt="A Zodiacal Night" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg" alt="Analemma over the Callanish Stones" width="700">
   </a>
   <br>
-  <h4>A Zodiacal Night (2026-09-19)</h4>
-  <p>Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September&#x27;s star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 met...</p>
+  <h4>Analemma over the Callanish Stones (2026-09-20)</h4>
+  <p>If you went outside at the same time every day and took a picture that included the Sun, how would the Sun&#x27;s position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed f...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
