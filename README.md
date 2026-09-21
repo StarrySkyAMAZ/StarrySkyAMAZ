@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg" alt="Analemma over the Callanish Stones" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" alt="Cocoon Nebula Wide Field" width="700">
   </a>
   <br>
-  <h4>Analemma over the Callanish Stones (2026-09-20)</h4>
-  <p>If you went outside at the same time every day and took a picture that included the Sun, how would the Sun&#x27;s position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed f...</p>
+  <h4>Cocoon Nebula Wide Field (2026-09-21)</h4>
+  <p>When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
