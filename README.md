@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_3000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg" alt="Cocoon Nebula Wide Field" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" alt="Chance Triple Alignment: Plane, Space Station, Sun" width="700">
   </a>
   <br>
-  <h4>Cocoon Nebula Wide Field (2026-09-21)</h4>
-  <p>When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the...</p>
+  <h4>Chance Triple Alignment: Plane, Space Station, Sun (2026-09-22)</h4>
+  <p>This shot captured an unexpected silhouette. Which is it?  It isn&#x27;t the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun&#x27;s bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the Internation...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
