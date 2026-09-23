@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_1500.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg" alt="Chance Triple Alignment: Plane, Space Station, Sun" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="A New Lunar Crater: McGetchin" width="700">
   </a>
   <br>
-  <h4>Chance Triple Alignment: Plane, Space Station, Sun (2026-09-22)</h4>
-  <p>This shot captured an unexpected silhouette. Which is it?  It isn&#x27;t the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun&#x27;s bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn’t the Internation...</p>
+  <h4>A New Lunar Crater: McGetchin (2026-09-23)</h4>
+  <p>A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captu...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
