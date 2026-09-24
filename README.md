@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="A New Lunar Crater: McGetchin" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg" alt="The Ghosts of Five Supernovas" width="700">
   </a>
   <br>
-  <h4>A New Lunar Crater: McGetchin (2026-09-23)</h4>
-  <p>A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captu...</p>
+  <h4>The Ghosts of Five Supernovas (2026-09-24)</h4>
+  <p>The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
