@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg" alt="Globular Cluster Omega Centauri" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" alt="Mirrored Meteor and Milky Way" width="700">
   </a>
   <br>
-  <h4>Globular Cluster Omega Centauri (2026-09-25)</h4>
-  <p>Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it&#x27;s the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Wa...</p>
+  <h4>Mirrored Meteor and Milky Way (2026-09-26)</h4>
+  <p>On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
