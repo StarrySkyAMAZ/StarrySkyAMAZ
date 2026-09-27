@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" alt="Mirrored Meteor and Milky Way" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" alt="Andromeda before Photoshop" width="700">
   </a>
   <br>
-  <h4>Mirrored Meteor and Milky Way (2026-09-26)</h4>
-  <p>On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above...</p>
+  <h4>Andromeda before Photoshop (2026-09-27)</h4>
+  <p>What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy&#x27;s closest major galactic neighbor really appears in a long exposure through Earth&#x27;s busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, eac...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
