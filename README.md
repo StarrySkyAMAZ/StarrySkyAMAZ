@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" alt="Andromeda before Photoshop" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="Cosmic Latte: The Average Color of the Universe" width="700">
   </a>
   <br>
-  <h4>Andromeda before Photoshop (2026-09-27)</h4>
-  <p>What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy&#x27;s closest major galactic neighbor really appears in a long exposure through Earth&#x27;s busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, eac...</p>
+  <h4>Cosmic Latte: The Average Color of the Universe (2026-09-28)</h4>
+  <p>What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In comp...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
