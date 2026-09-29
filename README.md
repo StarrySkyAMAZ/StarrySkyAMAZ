@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg" alt="Cosmic Latte: The Average Color of the Universe" width="700">
+  <a href="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="Sh2-188: The Shrimp Nebula" width="700">
   </a>
   <br>
-  <h4>Cosmic Latte: The Average Color of the Universe (2026-09-28)</h4>
-  <p>What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In comp...</p>
+  <h4>Sh2-188: The Shrimp Nebula (2026-09-29)</h4>
+  <p>What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
