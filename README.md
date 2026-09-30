@@ -31,12 +31,12 @@
 ### 🛰️ NASA Astronomy Picture of the Day | 每日天文图片
 
 <div align="center">
-  <a href="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg" alt="Sh2-188: The Shrimp Nebula" width="700">
+  <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2401/NGC6357_Cormier_3914.jpg" alt="Astronomy Picture of the Day" width="700">
   </a>
   <br>
-  <h4>Sh2-188: The Shrimp Nebula (2026-09-29)</h4>
-  <p>What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its...</p>
+  <h4>Astronomy Picture of the Day (2026-09-30)</h4>
+  <p>今日图片加载中，GitHub Actions运行后将自动更新...</p>
   <sub>🔗 图片来源: <a href="https://apod.nasa.gov/apod/astropix.html" target="_blank">NASA APOD</a> | 每日UTC 01:00（北京时间09:00）自动更新</sub>
 </div>
 
